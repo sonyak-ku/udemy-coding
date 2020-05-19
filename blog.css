@@ -1,0 +1,33 @@
+body {
+	width:50%;
+	max-width: 600px;
+	margin:10px auto 0 auto;
+	border:15px rgb(176, 188, 207) solid;
+	padding: 7px 2%;
+
+}
+
+hr{
+	border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+h4{
+	text-transform: uppercase;
+	color: rgb(49, 142, 163);
+	letter-spacing: .3em;
+}
+
+h1{
+	text-transform: capitalize;
+	color: rgb(9, 33, 71);
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+}
+
+.vertical{
+	border-left: 3px rgb(176, 188, 207) solid;
+	padding-left: 3px
+}
